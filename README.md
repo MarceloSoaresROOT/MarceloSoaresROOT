@@ -14,15 +14,22 @@
 ---
 
 ### 📊 Core Matrix Data
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarceloSoaresROOT&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Marcelo's GitHub stats" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSoaresROOT&layout=compact&theme=tokyonight&hide_border=true" alt="Marcelo's Top Languages" height="170" />
-</div>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarceloSoaresROOT&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloSoaresROOT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+### 📊 Skill Matrix (System Uploading...)
+<p align="left">
+  <code>JavaScript</code> █ █ █ █ █ █ █ █ ░ ░ 80% <br />
+  <code>Python    </code> █ █ █ █ █ █ █ ░ ░ ░ 70% <br />
+  <code>C / C#    </code> █ █ █ █ █ ░ ░ ░ ░ ░ 50% <br />
+  <code>HTML/CSS  </code> █ █ █ █ █ █ █ █ █ ░ 90%
+</p>
+
+> **Active Projects:** > - 🟢 **GreenGo:** Fruit & Vegetable delivery platform.  
+> - 📦 **AlertaTicket:** Logistics monitoring for J&T Express.
 
 ---
 
@@ -53,6 +60,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarceloSoaresROOT&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00F2FF&height=100&section=footer" width="100%" />
+### 💾 SYSTEM_LOG: DISCONNECTED
+<p align="left">
+<code> > End of transmission... </code> <br />
+<code> > Status: Secured </code> <br />
+<code> ______________________________________________________________________ </code>
 </p>
