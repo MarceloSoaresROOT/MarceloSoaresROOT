@@ -7,7 +7,7 @@
 
 ### 🤖 BIOS / USER_DATA
 > **Name:** Marcelo  
-> **Class:** Desenvolveodr Iniciante / Estudante de Análise e Desenvolvimento de Sistemas
+> **Class:** Desenvolvedor Iniciante / Estudante de Análise e Desenvolvimento de Sistemas
 > **Localização:** Brazil  
 > **Objetivo:** Desenvolver o Futuro, uma linha de código por vez.
 
@@ -53,7 +53,7 @@
 
 ### 🔋 System Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelosoares&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
