@@ -1,4 +1,4 @@
-# ⚡ Welcome to the Neural Link: Marcelo.exe
+# ⚡ Bem Vindo ao Neural Link: Marcelo.exe
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&width=435&lines=SYSTEM+STATUS%3A+ONLINE;DEVELOPER+FROM+BRAZIL-SECTOR-01;ANALYSING+SYSTEMS...;CYBERPUNK+VIBES+ACTIVATED" alt="Typing SVG" />
 </p>
@@ -7,9 +7,9 @@
 
 ### 🤖 BIOS / USER_DATA
 > **Name:** Marcelo  
-> **Class:** Amateur Developer / Systems Analysis Student  
-> **Location:** Brazil  
-> **Objective:** Building the future, one line of code at a time.
+> **Class:** Desenvolveodr Iniciante / Estudante de Análise e Desenvolvimento de Sistemas
+> **Localização:** Brazil  
+> **Objetivo:** Desenvolver o Futuro, uma linha de código por vez.
 
 ---
 
